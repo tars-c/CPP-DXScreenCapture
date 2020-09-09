@@ -5,7 +5,7 @@
 #include "DXGIManager.h"
 
 DXGIManager g_DXGIManager;
-
+ 
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("DXGICaptureSample. Fast windows screen capture\n");
